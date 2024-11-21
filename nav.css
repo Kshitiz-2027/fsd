@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url("aesthetic-landscape-reflection-background-hd-wallpaper-sr10012410-1706502139247-cover.webp");
+    background-repeat: no-repeat;
+}
+nav{
+    background-color:rgba(0, 0, 0, 0.8) ;
+    width: 100%;
+    height: 80px;
+
+}
+
+nav a{
+    float: right;
+    padding-left: 70px;
+    padding-top: 20px;
+    text-decoration: none;
+    font-size: 35px;
+    color: white;
+    
+}
+div{
+margin-top: 150px;
+}
+div h1{
+    font-size: 100px;
+}
+button{
+    border-radius: 18px;
+    display: flex;
+    font-size: 18px;
+    color: black;
+    display: inline-block;
+    background-color: white;
+    height: 50px;
+    box-shadow: 10px 10px 10px black;
+
+}
+button:hover{
+    background-color: blue;
+}
+.b1,.b2{
+    transition-duration: 0.5s;
+}
